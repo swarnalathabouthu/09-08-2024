@@ -1,0 +1,61 @@
+.A{
+    background-color: aqua;
+    text-align: center;
+}
+.B{
+    background-color: azure;
+}
+.C{
+    background-color: aquamarine;
+}
+.D{
+    background-color: cadetblue;
+}
+.E{
+    background-color: cornflowerblue;
+}
+.F{
+    background-color: darkgrey;
+}
+.G{
+    background-color: hotpink;
+}
+.H{
+    background-color: blueviolet;
+    
+}
+.I{
+    background-color: chartreuse;
+    width: 80%;
+    height:50%;
+}
+#a{
+    background-color:blue;
+}
+#b{
+    background-color: indigo;
+}
+#c{
+    background-color:brown;
+}
+#d{
+    background-color:crimson;
+}
+#e{
+    background-color: darkblue;
+}
+#f{
+    background-color: darkgrey;
+}
+#i{
+    font-size:large;
+}
+#j{
+    font-size:smaller;
+}
+#k{
+    font-size:xx-small;
+}
+#l{
+    font-size: xx-small;
+}
